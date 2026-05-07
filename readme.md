@@ -29,4 +29,4 @@ Feel free to fork the repository, open issues, or submit pull requests.
 
 ```bash
 git clone https://github.com/SarahTanzina/Netflix-movie-analysis.git
-cd coffee-machine-project
+cd Netflix-movie-analysis
