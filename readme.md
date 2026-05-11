@@ -14,8 +14,11 @@ This project is designed to apply the foundational Python skills by manipulating
 ### Features
 
 1. What was the most frequent movie duration in the 1990s?
-
 2. A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s
+3. Number of movies, tv shows, shows in each genre, shows released each year, each country and plot the result
+4. Number of movies in each country per genre
+5. plot Top 10 countries by Drama movies
+6. the title and release year of movies from Bangladesh
 
 This project will be updated regularly with new data analysis queries
 
